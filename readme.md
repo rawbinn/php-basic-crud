@@ -3,6 +3,8 @@
 
 This is a simple PHP-based Student Management System project built with best coding practices, security considerations, and clear code structure. It is designed for educational purposes and intended to help students understand the basics of CRUD operations (Create, Read, Update, Delete) using PHP and MySQL.
 
+Everything routes through a single index.php using $_GET['action'], similar to a mini MVC style.
+
 ---
 
 ## 🚀 Features
